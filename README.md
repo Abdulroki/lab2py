@@ -40,5 +40,5 @@ print("hasil penggabung {1}&{0}=%s".format(a,b) %(a+b))
 # konversi nilai variabel
 a=int(a)
 b=int(b)
-print("hasil penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
-print("hasil penjumlahan {1}/{0}=%s".format(a,b) %(a/b))
+print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("hasil penjumlahan {1}/{0}=%d".format(a,b) %(a/b))
